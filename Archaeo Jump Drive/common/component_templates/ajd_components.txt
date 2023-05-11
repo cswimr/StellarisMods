@@ -10,7 +10,7 @@
 @power4 = -30
 
 utility_component_template = {
-	key = "ARCHAEO_JUMP_DRIVE"
+	key = "AJD_ARCHAEO_JUMP_DRIVE"
 	size = small
 	icon = "GFX_ship_part_warp_drive_3"
 	icon_frame = 1
@@ -36,6 +36,6 @@ utility_component_template = {
 	}
 
 	class_restriction = { shipclass_military shipclass_constructor shipclass_colonizer shipclass_science_ship shipclass_transport shipclass_military_special shipclass_starbase }
-	prerequisites = { "tech_archaeo_jump_drive" }
+	prerequisites = { "ajd_tech_archaeo_jump_drive" }
 	component_set = "ftl_components"
 }

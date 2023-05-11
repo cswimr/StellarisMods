@@ -1,4 +1,4 @@
-tech_ancient_jump_calculations = {
+ajd_tech_ancient_jump_calculations = {
 	cost = 0
 	area = society
 	tier = 4
@@ -14,7 +14,7 @@ tech_ancient_jump_calculations = {
 	}
 }
 
-tech_archaeo_jump_drive = {
+ajd_tech_archaeo_jump_drive = {
 	cost = 3000
 	area = society
 	tier = 5
@@ -23,7 +23,7 @@ tech_archaeo_jump_drive = {
 	is_dangerous = yes
 	is_reverse_engineerable = no
 	prerequisites = {
-		tech_ancient_jump_calculations
+		ajd_tech_ancient_jump_calculations
 		tech_jump_drive_1
 	}
 }

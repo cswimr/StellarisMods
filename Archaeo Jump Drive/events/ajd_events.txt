@@ -1,7 +1,7 @@
 namespace = ajd
 country_event = {
 	id = ajd.1
-	hide_window = no
+	hide_window = yes
 	is_triggered_only = yes
 	immediate = {
 		give_technology = { 
