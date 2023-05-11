@@ -26,12 +26,13 @@ utility_component_template = {
 	jumpdrive = yes
 	ship_modifier = {
 		ship_disengage_opportunities_add = 3
-		ship_windup_mult = -1.2
+		ship_windup_mult = -1
 		ship_ftl_jumpdrive_range_mult = 1
+		ship_jumpdrive_cooldown_mult = -1
 	}
 
 	ai_weight = {
-		weight = 5
+		weight = 6
 	}
 
 	class_restriction = { shipclass_military shipclass_constructor shipclass_colonizer shipclass_science_ship shipclass_transport shipclass_military_special shipclass_starbase }

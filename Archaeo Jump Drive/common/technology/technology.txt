@@ -1,0 +1,29 @@
+tech_ancient_jump_calculations = {
+	cost = 0
+	area = society
+	tier = 4
+	category = { archaeostudies }
+	is_rare = yes
+	weight_modifier = {
+		modifier = {
+			factor = 0
+		}
+	}
+	ai_weight = {
+		factor = 0
+	}
+}
+
+tech_archaeo_jump_drive = {
+	cost = 3000
+	area = society
+	tier = 5
+	category = { archaeostudies }
+	is_rare = yes
+	is_dangerous = yes
+	is_reverse_engineerable = no
+	prerequisites = {
+		tech_ancient_jump_calculations
+		tech_jump_drive_1
+	}
+}
