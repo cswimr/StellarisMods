@@ -11,3 +11,5 @@ Upon choosing the __Archaeoengineers__ Ascension Perk, an event will fire giving
 ### Compatibility
 
 This mod overwrites the vanilla __Archaeoengineers__ Ascension Perk.
+
+[![SMD](https://i.imgur.com/4Und3QN.png](https://discord.gg/bHVez2C)
