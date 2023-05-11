@@ -6,4 +6,4 @@ tags={
 	"Balance"
 }
 name="Archaeo Jump Drive"
-supported_version="3.8.1"
+supported_version="3.8.2"

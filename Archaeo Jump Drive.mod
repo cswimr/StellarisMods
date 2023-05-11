@@ -6,5 +6,5 @@ tags={
 	"Balance"
 }
 name="Archaeo Jump Drive"
-supported_version="3.8.1"
+supported_version="3.8.2"
 path="C:/Users/seasw/Documents/Paradox Interactive/Stellaris/mod/Archaeo Jump Drive"
