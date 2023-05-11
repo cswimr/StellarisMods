@@ -16,6 +16,7 @@ ajd_tech_ancient_jump_calculations = {
 
 ajd_tech_archaeo_jump_drive = {
 	cost = 3000
+	icon = "ajd_tech_archaeo_jump_drive"
 	area = society
 	tier = 5
 	category = { archaeostudies }

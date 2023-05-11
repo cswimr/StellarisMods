@@ -1,4 +1,8 @@
 spriteType = {
 	name = "ajd_ship_part_archaeo_jump_drive"
-	texturefile = "gfx/interface/icons/ship_parts/archaeo_jump_drive.dds"
+	texturefile = "gfx/interface/icons/ship_parts/ajd_ship_part_archaeo_jump_drive.dds"
+}
+spriteType = {
+	name = "ajd_tech_archaeo_jump_drive"
+	texturefile = "gfx/interfaces/icons/technologies/ajd_tech_archaeo_jump_drive.dds"
 }
