@@ -1,0 +1,40 @@
+@cost1 = 5
+@cost2 = 10
+@cost3 = 15
+@cost4 = 20
+
+@power0 = -5
+@power1 = -10
+@power2 = -15
+@power3 = -20
+@power4 = -30
+
+utility_component_template = {
+	key = "ARCHAEO_JUMP_DRIVE"
+	size = small
+	icon = "GFX_ship_part_archaeo_jump_drive"
+	icon_frame = 1
+	power = @power1
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @cost1
+			minor_artifacts = @cost2
+		}
+	}
+	ftl = yes
+	jumpdrive = yes
+	ship_modifier = {
+		ship_disengage_opportunities_add = 3
+		ship_windup_mult = -1.2
+		ship_ftl_jumpdrive_range_mult = 1
+	}
+
+	ai_weight = {
+		weight = 5
+	}
+
+	class_restriction = { shipclass_military shipclass_constructor shipclass_colonizer shipclass_science_ship shipclass_transport shipclass_military_special shipclass_starbase }
+	prerequisites = { "tech_archaeo_jump_drive" }
+	component_set = "ftl_components"
+}
