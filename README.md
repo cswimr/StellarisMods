@@ -12,4 +12,4 @@ Upon choosing the __Archaeoengineers__ Ascension Perk, an event will fire giving
 
 This mod overwrites the vanilla __Archaeoengineers__ Ascension Perk.
 
-[![SMD](https://i.imgur.com/4Und3QN.png](https://discord.gg/bHVez2C)
+![Stellaris Modding Den](https://i.imgur.com/4Und3QN.png)[(Stellaris Modding Den)](https://discord.gg/bHVez2C)
