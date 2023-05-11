@@ -5,7 +5,7 @@ country_event = {
 	is_triggered_only = yes
 	immediate = {
 		give_technology = { 
-			tech = tech_ancient_jump_calculations
+			tech = ajd_tech_ancient_jump_calculations
 			message = no
 		}
 	}
