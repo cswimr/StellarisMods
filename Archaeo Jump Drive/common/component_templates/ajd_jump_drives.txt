@@ -12,7 +12,7 @@
 utility_component_template = {
 	key = "AJD_ARCHAEO_JUMP_DRIVE"
 	size = small
-	icon = "GFX_ship_part_warp_drive_3"
+	icon = "ajd_ship_part_archaeo_jump_drive"
 	icon_frame = 1
 	power = @power1
 	resources = {

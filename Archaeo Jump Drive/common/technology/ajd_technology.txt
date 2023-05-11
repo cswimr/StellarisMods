@@ -26,4 +26,10 @@ ajd_tech_archaeo_jump_drive = {
 		ajd_tech_ancient_jump_calculations
 		tech_jump_drive_1
 	}
+	prereqfor_desc = {
+        component = {
+            title = "ajd_archaeo_jump_drive_tech_description_title"
+            desc = "ajd_archaeo_jump_drive_tech_description_content"
+        }
+    }    
 }
