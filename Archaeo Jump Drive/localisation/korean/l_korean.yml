@@ -1,0 +1,6 @@
+l_korean:
+ ARCHAEO_JUMP_DRIVE:0 "아키에오 점프 드라이브"
+ tech_archaeo_jump_drive:0 "아키에오 점프 드라이브"
+ tech_archaeo_jump_drive_desc:0 "과거 시대의 획기적인 기술인 아케레오 점프 드라이브는 지역 시공간 연속체를 쪼개서 양자 수준에서 목표 목적지와 동일하게 재배열하여 우주선이 거의 즉각적으로 시스템에서 시스템으로 "점프"하는 것처럼 보입니다. 이 설계는 우리의 점프 드라이브보다 훨씬 더 효율적이고 강력한 것으로 보입니다..."
+ tech_ancient_jump_calculations:0 "고대 점프 계산"
+ tech_ancient_jump_calculations_desc:0 "이 기술은 아키에오 엔지니어 승천 특전으로 부여되며, 아키에오 점프 드라이브 기술을 위한 전제 조건입니다."

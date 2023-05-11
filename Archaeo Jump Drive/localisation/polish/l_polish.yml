@@ -1,0 +1,6 @@
+l_polish:
+ ARCHAEO_JUMP_DRIVE:0 "Archaeo Jump Drive"
+ tech_archaeo_jump_drive:0 "Archaeo Jump Drive"
+ tech_archaeo_jump_drive_desc:0 "Przełomowy cud techniki z minionej epoki, Archaeo Jump Drive rozrywa lokalną czasoprzestrzeń i zmienia jej układ na poziomie kwantowym tak, aby była identyczna z docelową - dzięki temu statek wydaje się niemal natychmiastowo "przeskakiwać" z systemu do systemu. Ta konstrukcja wydaje się być o wiele bardziej wydajna i potężna niż nasze własne napędy skokowe..."
+ tech_ancient_jump_calculations:0 "Ancient Jump Calculations"
+ tech_ancient_jump_calculations_desc:0 "Ta technologia jest przyznawana przez Archaeoengineers Ascension Perk i jest warunkiem wstępnym dla technologii Archaeo Jump Drive."

@@ -1,0 +1,6 @@
+l_french :
+ ARCHAEO_JUMP_DRIVE:0 "Lecteur de saut Archaeo"
+ tech_archaeo_jump_drive:0 "Lecteur de saut Archaeo"
+ tech_archaeo_jump_drive_desc:0 "Merveille technologique d'une époque révolue, l'Archaeo Jump Drive déchire le continuum espace-temps local et le réarrange au niveau quantique pour qu'il soit identique à celui de la destination cible - et ainsi le vaisseau semble "sauter" presque instantanément d'un système à l'autre. Cette conception semble être beaucoup plus efficace et puissante que nos propres moteurs de saut..."
+ tech_ancient_jump_calculations:0 "Calculs de saut anciens"
+ tech_ancient_jump_calculations_desc:0 "Cette technologie est accordée par la Perk d'Ascension des Archéo-ingénieurs et est un pré-requis pour la technologie du moteur de saut des Archéo-ingénieurs."
