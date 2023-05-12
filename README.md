@@ -18,6 +18,7 @@ This mod supports the following languages:
 
 * English
 * Brazilian Portuguese
+  * By cazunotpa/Finite Skylines
 
 If you'd like to add more, reach out to me on [Discord](https://discord.com/invite/robloxgalaxy) or submit a [pull request](https://github.com/SeaswimmerTheFsh/StellarisMods/pulls).
 
