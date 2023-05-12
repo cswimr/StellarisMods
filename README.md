@@ -10,6 +10,6 @@ Upon choosing the __Archaeoengineers__ Ascension Perk, an event will fire giving
 
 ### Compatibility
 
-This mod overwrites the vanilla __Archaeoengineers__ Ascension Perk.
+This mod overwrites the vanilla __Archaeoengineers__ Ascension Perk and the __Psi Jump Drive__.
 
 [<img src="https://i.imgur.com/4Und3QN.png">](https://discord.gg/bHVez2C)

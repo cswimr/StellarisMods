@@ -1,5 +1,6 @@
 ajd_tech_ancient_jump_calculations = {
 	cost = 0
+	icon = "tech_sensors_3"
 	area = society
 	tier = 4
 	category = { archaeostudies }

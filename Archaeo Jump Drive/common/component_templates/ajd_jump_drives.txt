@@ -26,9 +26,9 @@ utility_component_template = {
 	jumpdrive = yes
 	ship_modifier = {
 		ship_disengage_opportunities_add = 3
-		ship_windup_mult = -2
-		ship_ftl_jumpdrive_range_mult = 0.75
-		ship_jumpdrive_cooldown_mult = -0.9
+		ship_windup_mult = -1.75
+		ship_ftl_jumpdrive_range_mult = 0.70
+		ship_jumpdrive_cooldown_mult = -0.5
 	}
 
 	ai_weight = {
@@ -37,5 +37,35 @@ utility_component_template = {
 
 	class_restriction = { shipclass_military shipclass_constructor shipclass_colonizer shipclass_science_ship shipclass_transport shipclass_military_special shipclass_starbase }
 	prerequisites = { "ajd_tech_archaeo_jump_drive" }
+	component_set = "ftl_components"
+}
+
+utility_component_template = {
+	key = "PSI_JUMP_DRIVE_1"
+	size = small
+	icon = "GFX_ship_part_psi_jump_drive_1"
+	icon_frame = 1
+	power = @power4
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @cost4
+		}
+	}
+	ftl = yes
+	jumpdrive = yes
+	ship_modifier = {
+		ship_disengage_opportunities_add = 2
+		ship_windup_mult = -0.8
+		ship_ftl_jumpdrive_range_mult = 0.50
+	}
+
+	ai_weight = {
+		weight = 5
+	}
+
+	class_restriction = { shipclass_military shipclass_constructor shipclass_colonizer shipclass_science_ship shipclass_transport shipclass_military_special shipclass_starbase }
+	prerequisites = { "tech_psi_jump_drive_1" }
+	upgrades_to = "AJD_ARCHAEO_JUMP_DRIVE"
 	component_set = "ftl_components"
 }
