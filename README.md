@@ -12,4 +12,13 @@ Upon choosing the __Archaeoengineers__ Ascension Perk, an event will fire giving
 
 This mod overwrites the vanilla __Archaeoengineers__ Ascension Perk and the __Psi Jump Drive__.
 
+### Localization
+
+This mod supports the following languages:
+
+* English
+* Brazilian Portuguese
+
+If you'd like to add more, reach out to me on [Discord](https://discord.com/invite/robloxgalaxy) or submit a [pull request](https://github.com/SeaswimmerTheFsh/StellarisMods/pulls).
+
 [<img src="https://i.imgur.com/4Und3QN.png">](https://discord.gg/bHVez2C)

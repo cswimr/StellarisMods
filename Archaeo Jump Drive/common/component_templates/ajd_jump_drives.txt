@@ -26,7 +26,7 @@ utility_component_template = {
 	jumpdrive = yes
 	ship_modifier = {
 		ship_disengage_opportunities_add = 3
-		ship_windup_mult = -1.75
+		ship_windup_mult = -1
 		ship_ftl_jumpdrive_range_mult = 0.70
 		ship_jumpdrive_cooldown_mult = -0.5
 	}
