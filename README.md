@@ -23,7 +23,7 @@ This mod supports the following languages:
 
 If you'd like to add more, reach out to me on [Discord](https://discord.com/invite/robloxgalaxy) or submit a [pull request](https://github.com/SeaswimmerTheFsh/StellarisMods/pulls).
 
-## More Starbase Slots
+## [More Starbase Slots](https://steamcommunity.com/sharedfiles/filedetails/?id=2975397565)
 
 This mod adds more Module/Building slots to Starbases (and Orbital Rings).
 
