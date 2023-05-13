@@ -2,6 +2,8 @@
 
 Source code repository for my Stellaris mods.
 
+[<img src="https://i.imgur.com/4Und3QN.png">](https://discord.gg/bHVez2C)
+
 ## [Archaeo Jump Drive](https://steamcommunity.com/sharedfiles/filedetails/?id=2974656285)
 
 This mod adds a new Jump Drive, gated behind the __Archaeoengineers__ Ascension Perk.
@@ -55,7 +57,3 @@ __This mod requires [UI Overhaul Dynamic](https://steamcommunity.com/sharedfiles
 Original code is from [Double Starbase Slots](https://steamcommunity.com/sharedfiles/filedetails/?id=2960916028) by Willa Grey.
 
 Original idea (and rough slot numbers) are from [More Starbase Slots for Expanded Starbases](https://steamcommunity.com/sharedfiles/filedetails/?id=2808547642) by [Skogen](https://steamcommunity.com/id/Skogen787).
-
-
-
-[<img src="https://i.imgur.com/4Und3QN.png">](https://discord.gg/bHVez2C)
