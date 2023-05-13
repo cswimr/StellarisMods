@@ -48,7 +48,7 @@ __Orbitial Rings__
 
 This mod overwrites all tiers of buildable starbases and orbital ring entries.
 
-__This mod requires [UI Overhaul Dynamic](https://steamcommunity.com/sharedfiles/filedetails/?id=1623423360)__
+__This mod requires [UI Overhaul Dynamic](https://steamcommunity.com/sharedfiles/filedetails/?id=1623423360).__
 
 ### Credits
 
