@@ -40,9 +40,9 @@ __Starbases__
 __Orbitial Rings__
 | __Level__  | __Module Slots__ | __Building Slots__ |
 | :-------------: | :-------------: | :-------------: |
-| Tier 1  | 4  | 2  |
-| Tier 2  | 8  | 4  |
-| Tier 3  | 12  | 6  |
+| Tier 1  | 5  | 4  |
+| Tier 2  | 10  | 6  |
+| Tier 3  | 15  | 8  |
 
 ### Compatibility
 
