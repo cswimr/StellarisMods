@@ -16,10 +16,44 @@ This mod overwrites the vanilla __Archaeoengineers__ Ascension Perk and the __Ps
 
 This mod supports the following languages:
 
-* English
-* Brazilian Portuguese
-  * By cazunotpa/Finite Skylines
+| Language  | Contributor |
+| ------------- | ------------- |
+| English  | SeaswimmerTheFsh  |
+| Brazilian Portuguese  | Finite Skylines  |
 
 If you'd like to add more, reach out to me on [Discord](https://discord.com/invite/robloxgalaxy) or submit a [pull request](https://github.com/SeaswimmerTheFsh/StellarisMods/pulls).
+
+## More Starbase Slots
+
+This mod adds more Module/Building slots to Starbases (and Orbital Rings).
+
+### Slot Numbers:
+
+__Starbases__
+| __Level__  | __Module Slots__ | __Building Slots__ |
+| :-------------: | :-------------: | :-------------: |
+| Starport  | 5  | 2  |
+| Starhold  | 10  | 4  |
+| Star Fortress  | 15  | 6  |
+| Citadel  | 25  | 10  |
+
+__Orbitial Rings__
+| __Level__  | __Module Slots__ | __Building Slots__ |
+| :-------------: | :-------------: | :-------------: |
+| Tier 1  | 4  | 2  |
+| Tier 2  | 8  | 4  |
+| Tier 3  | 12  | 6  |
+
+### Compatibility
+
+This mod overwrites all tiers of buildable starbases and orbital ring entries.
+
+__This mod requires [UI Overhaul Dynamic](https://steamcommunity.com/sharedfiles/filedetails/?id=1623423360)__
+
+### Credits
+
+Original code is from [Double Starbase Slots](https://steamcommunity.com/sharedfiles/filedetails/?id=2960916028) by Willa Grey.
+
+Original idea (and rough slot numbers) are from [More Starbase Slots for Expanded Starbases](https://steamcommunity.com/sharedfiles/filedetails/?id=2808547642) by [Skogen](https://steamcommunity.com/id/Skogen787).
 
 [<img src="https://i.imgur.com/4Und3QN.png">](https://discord.gg/bHVez2C)
