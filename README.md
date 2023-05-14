@@ -56,6 +56,5 @@ Original code is from [Double Starbase Slots](https://steamcommunity.com/sharedf
 
 Original idea (and rough slot numbers) are from [More Starbase Slots for Expanded Starbases](https://steamcommunity.com/sharedfiles/filedetails/?id=2808547642) by [Skogen](https://steamcommunity.com/id/Skogen787).
 
-
-
+___
 [<img src="https://i.imgur.com/4Und3QN.png">](https://discord.gg/bHVez2C)
