@@ -19,7 +19,7 @@ This mod supports the following languages:
 | Language  | Contributor |
 | ------------- | ------------- |
 | English  | SeaswimmerTheFsh  |
-| Brazilian Portuguese  | Finite Skylines  |
+| Brazilian Portuguese  | FiniteSkylines  |
 
 If you'd like to add more, reach out to me on [Discord](https://discord.com/invite/robloxgalaxy) or submit a [pull request](https://github.com/SeaswimmerTheFsh/StellarisMods/pulls).
 
