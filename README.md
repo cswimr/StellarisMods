@@ -16,12 +16,42 @@ This mod overwrites the vanilla __Archaeoengineers__ Ascension Perk and the __Ps
 
 This mod supports the following languages:
 
-| Language  | Contributor |
+| __Language__  | __Contributor__ |
 | ------------- | ------------- |
 | English  | SeaswimmerTheFsh  |
 | Brazilian Portuguese  | FiniteSkylines  |
 
-If you'd like to add more, reach out to me on [Discord](https://discord.com/invite/robloxgalaxy) or submit a [pull request](https://github.com/SeaswimmerTheFsh/StellarisMods/pulls).
+If you'd like to add more, reach out to me on [Discord](https://discord.com/invite/DCHChT5mM5) or submit a [pull request](https://github.com/SeaswimmerTheFsh/StellarisMods/pulls).
+
+## [Big Yards Forked](https://steamcommunity.com/sharedfiles/filedetails/?id=2976268363)
+
+> Titan Assembly Yards and Colossal Assembly Yards take up starbase building slots and have very high energy costs to maintain, but they don't have a constant benefit to justify keeping them around. That's... kind of weird, right?
+\- Keukotis
+
+This mod is a fork of the original [Big Yards 3.8](https://steamcommunity.com/sharedfiles/filedetails/?id=2975469306) mod by [Keukotis](https://steamcommunity.com/id/Keukotis).
+
+Instead of adding naval capacity to the Titan Assembly Yards and Colossal Assembly Yards, I've added shipyard capacity. The Titan Assembly Yards provide 2 Shipyard Capacity and the Colossal Assembly Yards provide 4 Shipyard Capacity.
+
+### Compatibility
+
+This mod overwrites the ``titan_yards`` and ``colossus_yards`` starbase buildings.
+
+__You need one of the following DLC enabled for this mod to do anything:__
+
+* [Apocalypse](https://store.steampowered.com/app/716670/Stellaris_Apocalypse/)
+* [Federations](https://store.steampowered.com/app/1140001/Stellaris_Federations/)
+* [Nemesis](https://store.steampowered.com/app/1522090/Stellaris_Nemesis/)
+
+### Localization
+
+This mod supports the following languages:
+
+| __Language__  | __Contributor__ |
+| ------------- | ------------- |
+| English  | SeaswimmerTheFsh  |
+| Brazilian Portuguese  | FiniteSkylines  |
+
+If you'd like to add more, reach out to me on [Discord](https://discord.com/invite/DCHChT5mM5) or submit a [pull request](https://github.com/SeaswimmerTheFsh/StellarisMods/pulls).
 
 ## [More Starbase Slots](https://steamcommunity.com/sharedfiles/filedetails/?id=2975397565)
 
