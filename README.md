@@ -26,7 +26,7 @@ If you'd like to add more, reach out to me on [Discord](https://discord.com/invi
 ## [Big Yards Forked](https://steamcommunity.com/sharedfiles/filedetails/?id=2976268363)
 
 > Titan Assembly Yards and Colossal Assembly Yards take up starbase building slots and have very high energy costs to maintain, but they don't have a constant benefit to justify keeping them around. That's... kind of weird, right?
-\- Keukotis
+\- __Keukotis__
 
 This mod is a fork of the original [Big Yards 3.8](https://steamcommunity.com/sharedfiles/filedetails/?id=2975469306) mod by [Keukotis](https://steamcommunity.com/id/Keukotis).
 
