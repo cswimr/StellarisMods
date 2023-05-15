@@ -27,9 +27,10 @@ If you'd like to add more, reach out to me on [Discord](https://discord.com/invi
 
 This mod adds more Module/Building slots to Starbases (and Orbital Rings).
 
-### Slot Numbers:
+### Slot Numbers
 
-__Starbases__
+#### Starbases
+
 | __Level__  | __Module Slots__ | __Building Slots__ |
 | :-------------: | :-------------: | :-------------: |
 | Starport  | 5  | 2  |
@@ -37,7 +38,8 @@ __Starbases__
 | Star Fortress  | 15  | 6  |
 | Citadel  | 25  | 10  |
 
-__Orbitial Rings__
+#### Orbitial Rings
+
 | __Level__  | __Module Slots__ | __Building Slots__ |
 | :-------------: | :-------------: | :-------------: |
 | Tier 1  | 5  | 4  |
