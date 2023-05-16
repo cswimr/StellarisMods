@@ -20,6 +20,7 @@ This mod supports the following languages:
 | ------------- | ------------- |
 | English  | SeaswimmerTheFsh  |
 | Brazilian Portuguese  | FiniteSkylines  |
+| French | [DeepL](https://www.deepl.com/translator) |
 
 If you'd like to add more, reach out to me on [Discord](https://discord.com/invite/DCHChT5mM5) or submit a [pull request](https://github.com/SeaswimmerTheFsh/StellarisMods/pulls).
 
