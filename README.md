@@ -90,5 +90,23 @@ Original code is from [Double Starbase Slots](https://steamcommunity.com/sharedf
 
 Original idea (and rough slot numbers) are from [More Starbase Slots for Expanded Starbases](https://steamcommunity.com/sharedfiles/filedetails/?id=2808547642) by [Skogen](https://steamcommunity.com/id/Skogen787).
 
+## Obtainable Dark Matter Listening Post
+
+This mod adds a research to unlock the __Dark Matter Listening Post__, which is typically exclusive to Fallen Empires.
+
+### Compatibility
+
+This mod overwrites the ``dark_matter_listening_post`` Starbase building.
+
+### Localization
+
+This mod supports the following languages:
+
+| __Language__  | __Contributor__ |
+| ------------- | ------------- |
+| English  | SeaswimmerTheFsh  |
+
+If you'd like to add more, reach out to me on [Discord](https://discord.com/invite/DCHChT5mM5) or submit a [pull request](https://github.com/SeaswimmerTheFsh/StellarisMods/pulls).
+
 ___
 [<img src="https://i.imgur.com/4Und3QN.png">](https://discord.gg/bHVez2C)
