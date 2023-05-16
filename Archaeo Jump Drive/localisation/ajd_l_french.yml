@@ -1,9 +1,8 @@
-﻿l_french:
- AJD_ARCHAEO_JUMP_DRIVE:0 "Archaeo Jump Drive"
- ajd_tech_archaeo_jump_drive:0 "Archaeo Jump Drive"
- ajd_tech_archaeo_jump_drive_desc:0 "A groundbreaking technological marvel from a bygone era, the Archaeo Jump Drive shreds the local space-time continuum and rearranges it on the quantum level to be identical to that of the target destination - and thus the ship appears to near-instantly teleport from system to system. This design appears to be far more efficient and powerful than our own Jump Drives...\n§gAdded by §MArchaeo Jump Drive§!"
- ajd_tech_ancient_jump_calculations:0 "Ancient Jump Calculations"
- ajd_tech_ancient_jump_calculations_desc:0 "This technology is granted by the Archaeoengineers Ascension Perk and is a prerequisite for the Archaeo Jump Drive technology."
- ajd_archaeo_jump_drive_tech_description_title:0 "§HUnlocks Component:§!  Archaeo Jump Drive"
- ajd_archaeo_jump_drive_tech_description_content:0 "A groundbreaking technological marvel from a bygone era, the Archaeo Jump Drive shreds the local space-time continuum and rearranges it on the quantum level to be identical to that of the target destination - and thus the ship appears to near-instantly teleport from system to system. This design appears to be far more efficient and powerful than our own Jump Drives...\n§gAdded by §MArchaeo Jump Drive§!"
-# DO_NOT_TRANSLATE_THIS:0 "Translate this"
+﻿l_english:
+ AJD_ARCHAEO_JUMP_DRIVE:0 "Ancien propulseur de saut"
+ ajd_tech_archaeo_jump_drive:0 "Ancien propulseur de saut"
+ ajd_tech_archaeo_jump_drive_desc:0 "Une avancé technologique révolutionnaire d'une ère passée, l'Ancien propulseur de saut détruit le continuum de l'espace-temps local et le reconstruit à l'échelle quantique identiquement à la destination cible - et de ce fait le vaisseau semble se téléporter presque instantanément de système en système. Ce design semble beaucoup plus puissant et efficace que nos propulseurs de sauts actuels . . .\n§gAjouté par §MArchaeo Jump Drive§!"
+ ajd_tech_ancient_jump_calculations:0 "Anciennes calculations de sauts"
+ ajd_tech_ancient_jump_calculations_desc:0 "Cette technologie vous est donnée par les Archaeoingénieurs de Ascension Perk et elle est un prérequis pour l'Ancien propulseur de saut."
+ ajd_archaeo_jump_drive_tech_description_title:0 "§HDébloque le composant:§!  Ancien propulseur de saut" 
+ ajd_archaeo_jump_drive_tech_description_content:0 "Une avancé technologique révolutionnaire d'une ère passée, l'Ancien propulseur de saut détruit le continuum de l'espace-temps local et le reconstruit à l'échelle quantique identiquement à la destination cible - et de ce fait le vaisseau semble se téléporter presque instantanément de système en système. Ce design semble beaucoup plus puissant et efficace que nos propulseurs de sauts actuels . . .\n§gAjouté par §MArchaeo Jump Drive§!"
