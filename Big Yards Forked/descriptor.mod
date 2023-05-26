@@ -1,6 +1,6 @@
-version="3.8.*"
+version="1.1"
 tags={
 	"Gameplay"
 }
 name="Big Yards Forked"
-supported_version="3.8.2"
+supported_version="3.8.3"

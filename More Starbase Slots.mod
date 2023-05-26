@@ -4,5 +4,5 @@ tags={
 	"Gameplay"
 }
 name="More Starbase Slots"
-supported_version="3.8.2"
+supported_version="3.8.3"
 path="C:/Users/seasw/Documents/Paradox Interactive/Stellaris/mod/More Starbase Slots"
