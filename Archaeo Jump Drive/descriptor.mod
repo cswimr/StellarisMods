@@ -3,4 +3,4 @@ tags={
 	"Technologies"
 }
 name="Archaeo Jump Drive"
-supported_version="3.8.3"
+supported_version="3.8.4"
