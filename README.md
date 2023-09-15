@@ -1,5 +1,7 @@
 # StellarisMods
 
+## This repository is outdated! Please use my [Forgejo](https://git.seaswimmer.cc/SeaswimmerTheFsh/StellarisMods) repository.
+
 Source code repository for my Stellaris mods.
 
 ## [Archaeo Jump Drive](https://steamcommunity.com/sharedfiles/filedetails/?id=2974656285)
