@@ -1,6 +1,6 @@
 # StellarisMods
 
-## This repository is outdated! Please use my [Forgejo](https://git.seaswimmer.cc/SeaswimmerTheFsh/StellarisMods) repository.
+## This repository is outdated! Please use my [Forgejo](https://www.coastalcommits.com/Sea/StellarisMods) repository.
 
 Source code repository for my Stellaris mods.
 
